@@ -1,0 +1,842 @@
+body{
+  margin: 0;
+  padding-left: 0;
+}
+.frame-3, .frame-3 * {
+  box-sizing: border-box;
+  }
+.frame-3 {
+ background: #ffffff;
+ width: 100% ;
+  height: 2403px;
+ 
+         position: relative;
+ 
+     overflow: hidden;
+ }
+
+.banner {
+ 
+         position: absolute;
+  inset: 0;
+ 
+     }
+
+.banner-imag {
+ background: linear-gradient(to left, rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55));
+ width: 100%;
+  height: 701.3px;
+ 
+         position: absolute;
+  left: 0px;
+ top: 0px;
+ 
+     }
+
+.titel{
+ color: #ffffff;
+ text-align: center;
+ font: 800 italic 55px 'Poppins-ExtraBoldItalic', sans-serif;
+ 
+         position: absolute;
+  left: calc(50% - 530px);
+ top: 184px;
+ 
+     width: 1060px;
+  height: 196px;
+ }
+
+.bodytex{
+ color: #ffffff;
+ text-align: center;
+ font: 400 16px 'Poppins-Regular', sans-serif;
+ 
+         position: absolute;
+  left: calc(50% - 240.15px);
+ top: 395.66px;
+ 
+     width: 479.17px;
+  height: 111.65px;
+ }
+
+.frame-1 {
+ background: #734e22;
+ border-radius: 25px;
+ padding: 10px 20px 10px 20px;
+ 
+         display: flex;
+ 
+         flex-direction: row;
+ 
+         gap: 10px;
+ 
+         align-items: center;
+ 
+         justify-content: center;
+ 
+         
+     width: 252.14px;
+  height: 52.1px;
+ 
+         position: absolute;
+  left: 543.36px;
+ top: 549.18px;
+ 
+     }
+
+.explore-now {
+ color: #ffffff;
+ text-align: left;
+ font: 600 25px 'Rubik-SemiBold', sans-serif;
+ 
+         position: relative;
+ 
+     }
+
+.nav-bar {
+ width: 1165.81px;
+  height: 74.43px;
+ 
+         position: static;
+ 
+     }
+
+.logo {
+ width: 111.65px;
+  height: 74.43px;
+ 
+         position: absolute;
+  left: 83.74px;
+ top: 31.63px;
+ 
+     }
+
+.buttons {
+ width: 411.24px;
+  height: 27.91px;
+ 
+         position: static;
+ 
+     }
+
+.home {
+ color: #ffffff;
+ text-align: left;
+ font: 500 22px 'Rubik-Medium', sans-serif;
+ 
+         position: absolute;
+  left: 276.33px;
+ top: 54.89px;
+ 
+     width: 65.13px;
+  height: 27.91px;
+ }
+
+.shop-now {
+ color: #ffffff;
+ text-align: left;
+ font: 500 22px 'Rubik-Medium', sans-serif;
+ 
+         position: absolute;
+  left: 397.29px;
+ top: 54.89px;
+ 
+     width: 112.58px;
+  height: 27.91px;
+ }
+
+.contact-us {
+ color: #ffffff;
+ text-align: left;
+ font: 500 22px 'Rubik-Medium', sans-serif;
+ 
+         position: absolute;
+  left: 564.76px;
+ top: 54.89px;
+ 
+     width: 122.82px;
+  height: 27.91px;
+ }
+
+.add-to-card {
+ height: auto;
+ 
+         position: absolute;
+  right: 6.75%;
+  left: 90.68%;
+  width: 2.57%;
+ bottom: 96.43%;
+  top: 2.26%;
+  height: 1.31%;
+ 
+     overflow: visible;
+ }
+
+.search {
+ width: 269.82px;
+  height: 34.87px;
+ 
+         position: absolute;
+  right: 12.17%;
+  left: 67.7%;
+  width: 20.14%;
+ bottom: 96.21%;
+  top: 2.34%;
+  height: 1.45%;
+ 
+     overflow: visible;
+ }
+
+.futuerd-collection {
+ 
+         position: absolute;
+  inset: 0;
+  
+ 
+}
+
+.group-6 {
+ 
+         position: static;
+ 
+     }
+
+.futuerd-img-1 {
+ border-radius: 25px;
+ width: 366.35px;
+  height: 418.69px;
+ 
+         position: absolute;
+  left: 88.97px;
+ top: 1494.72px;
+ 
+     }
+
+.futuerd-img-2 {
+ background: linear-gradient(to left, #d9d9d9, #d9d9d9);
+ border-radius: 25px;
+ width: 366.35px;
+  height: 418.69px;
+ 
+         position: absolute;
+  left: 486.72px;
+ top: 1494.72px;
+ 
+     }
+
+.futuerd-img-3 {
+ background: linear-gradient(to left, #d9d9d9, #d9d9d9);
+ border-radius: 25px;
+ width: 366.35px;
+  height: 418.69px;
+ 
+         position: absolute;
+  left: 884.48px;
+ top: 1494.72px;
+ 
+     }
+
+.futuerdtitel{
+ color: #000000;
+ text-align: center;
+ font: 500 36px 'Poppins-Medium', sans-serif;
+ 
+         position: absolute;
+  left: calc(50% - 326.68px);
+ top: 1342.94px;
+ 
+     width: 654.08px;
+  height: 100.49px;
+ }
+
+.collections {
+ 
+         position: absolute;
+  inset: 0;
+ 
+     }
+
+.group-1 {
+ width: 1172.33px;
+  height: 372.17px;
+ 
+         position: static;
+ 
+     }
+
+.colloction-img-4 {
+ background: linear-gradient(to left, #d9d9d9, #d9d9d9);
+ border-radius: 25px;
+ width: 400.08px;
+  height: 372.17px;
+ 
+         position: absolute;
+  left: 856.33px;
+ top: 910.53px;
+ 
+     }
+
+.colloction-img-3 {
+ background: linear-gradient(to left, #d9d9d9, #d9d9d9);
+ border-radius: 25px;
+ width: 305.18px;
+  height: 372.17px;
+ 
+         position: absolute;
+  left: 523.24px;
+ top: 910.53px;
+ 
+     }
+
+.colloction-img-2 {
+ border-radius: 25px;
+ width: 411.24px;
+  height: 172.13px;
+ 
+         position: absolute;
+  left: 84.09px;
+ top: 910.53px;
+ 
+     }
+
+.colloction-img-1 {
+ background: linear-gradient(to left, #d9d9d9, #d9d9d9);
+ border-radius: 25px;
+ width: 411.24px;
+  height: 172.13px;
+ 
+         position: absolute;
+  left: 84.09px;
+ top: 1110.57px;
+ 
+     }
+
+.collectiontitel {
+ color: #000000;
+ text-align: left;
+ font: 500 36px 'Poppins-Medium', sans-serif;
+ 
+         position: absolute;
+  left: 83.74px;
+ top: 754.68px;
+ 
+     width: 624.89px;
+  height: 100.49px;
+ }
+
+.footer {
+ 
+         position: absolute;
+  inset: 0;
+ 
+     }
+
+.ouick-links {
+ width: 195.39px;
+  height: 209.34px;
+ 
+         position: static;
+ 
+     }
+
+.quick-links {
+ color: #000000;
+ text-align: left;
+ font: 400 35px/150% 'Poppins-Regular', sans-serif;
+ 
+         position: absolute;
+  left: 130.26px;
+ top: 1980.39px;
+ 
+     width: 195.39px;
+  height: 55.83px;
+ display: flex;
+ 
+align-items: center;
+ justify-content: flex-start}
+
+.group-2 {
+ width: 153.52px;
+  height: 143.05px;
+ 
+         position: static;
+ 
+     }
+
+.privacy-policy {
+ color: #000000;
+ text-align: left;
+ font: 400 16px/150% 'Poppins-Regular', sans-serif;
+ 
+         position: absolute;
+  left: 150.73px;
+ top: 2046.69px;
+ 
+     width: 126.54px;
+  height: 27.91px;
+ display: flex;
+ 
+align-items: center;
+ justify-content: flex-start}
+
+.refund-policy {
+ color: #000000;
+ text-align: left;
+ font: 400 16px/150% 'Poppins-Regular', sans-serif;
+ 
+         position: absolute;
+  left: 150.73px;
+ top: 2085.07px;
+ 
+     width: 124.68px;
+  height: 27.91px;
+ display: flex;
+ 
+align-items: center;
+ justify-content: flex-start}
+
+.terms-of-service {
+ color: #000000;
+ text-align: left;
+ font: 400 16px/150% 'Poppins-Regular', sans-serif;
+ 
+         position: absolute;
+  left: 150.73px;
+ top: 2123.45px;
+ 
+     width: 153.52px;
+  height: 27.91px;
+ display: flex;
+ 
+align-items: center;
+ justify-content: flex-start}
+
+.search2 {
+ color: #000000;
+ text-align: left;
+ font: 400 16px/150% 'Poppins-Regular', sans-serif;
+ 
+         position: absolute;
+  left: 150.73px;
+ top: 2161.83px;
+ 
+     width: 64.2px;
+  height: 27.91px;
+ display: flex;
+ 
+align-items: center;
+ justify-content: flex-start}
+
+.explore {
+ width: 132.12px;
+  height: 209.34px;
+ 
+         position: static;
+ 
+     }
+
+.explore2 {
+ color: #000000;
+ text-align: left;
+ font: 400 35px 'Poppins-Regular', sans-serif;
+ 
+         position: absolute;
+  left: 1078.35px;
+ top: 1980.39px;
+ 
+     width: 132.12px;
+  height: 55.83px;
+ }
+
+.group-3 {
+ width: 93.04px;
+  height: 143.05px;
+ 
+         position: static;
+ 
+     }
+
+.home2 {
+ color: #000000;
+ text-align: left;
+ font: 400 16px 'Poppins-Regular', sans-serif;
+ 
+         position: absolute;
+  left: 1098.82px;
+ top: 2046.69px;
+ 
+     width: 55.83px;
+  height: 27.91px;
+ display: flex;
+ 
+align-items: center;
+ justify-content: flex-start}
+
+.shop-now2 {
+ color: #000000;
+ text-align: left;
+ font: 400 16px 'Poppins-Regular', sans-serif;
+ 
+         position: absolute;
+  left: 1098.82px;
+ top: 2085.07px;
+ 
+     width: 93.04px;
+  height: 27.91px;
+ display: flex;
+ 
+align-items: center;
+ justify-content: flex-start}
+
+.pets {
+ color: #000000;
+ text-align: left;
+ font: 400 16px 'Poppins-Regular', sans-serif;
+ 
+         position: absolute;
+  left: 1098.82px;
+ top: 2123.45px;
+ 
+     width: 39.08px;
+  height: 27.91px;
+ display: flex;
+ 
+align-items: center;
+ justify-content: flex-start}
+
+.contact {
+ color: #000000;
+ text-align: left;
+ font: 400 16px 'Poppins-Regular', sans-serif;
+ 
+         position: absolute;
+  left: 1098.82px;
+ top: 2161.83px;
+ 
+     width: 76.29px;
+  height: 27.91px;
+ display: flex;
+ 
+align-items: center;
+ justify-content: flex-start}
+
+.sub-emails-box {
+ width: 632.92px;
+  height: 95.14px;
+ 
+         position: static;
+ 
+     }
+
+.email-box {
+ width: 544.29px;
+  height: 46.52px;
+ 
+         position: static;
+ 
+     }
+
+.rectangle-1 {
+ background: #fffcfc;
+ border-radius: 15px;
+ width: 544.29px;
+  height: 46.52px;
+ 
+         position: absolute;
+  left: 377.87px;
+ top: 2085.07px;
+ 
+     box-shadow:  0px 0px 8px 2px rgba(0, 0, 0, 0.15);
+ }
+
+.enter-your-email {
+ color: #999999;
+ text-align: left;
+ font: 400 15px 'Poppins-Regular', sans-serif;
+ 
+         position: absolute;
+  left: 579.88px;
+ top: 2098.67px;
+ 
+     width: 140.26px;
+  height: 20.93px;
+ }
+
+.enter-box {
+ width: 78.16px;
+  height: 46.52px;
+ 
+         position: absolute;
+  left: 932.63px;
+ top: 2085.53px;
+ 
+     overflow: visible;
+ }
+
+.footertext {
+ color: #000000;
+ text-align: left;
+ font: 400 20px 'Poppins-Regular', sans-serif;
+ 
+         position: absolute;
+  left: 520.22px;
+ top: 2036.92px;
+ 
+     width: 259.59px;
+  height: 28.26px;
+ }
+
+.line-12 {
+ 
+ border-style: solid;
+  
+ border-color: rgba(136, 136, 136, 0.55);
+ 
+ border-width: 1px 0 0 0;
+ 
+ width: 1339.8px;
+  height: 0px;
+ 
+         position: absolute;
+  left: 0px;
+ top: 2284.76px;
+ 
+     }
+
+.group-5 {
+ width: 468.93px;
+  height: 52.1px;
+ 
+         position: static;
+ 
+     }
+
+.frame {
+ width: 52.1px;
+  height: 52.1px;
+ 
+         position: absolute;
+  left: 435.44px;
+ top: 2285.69px;
+ 
+     overflow: hidden;
+ }
+
+.group {
+ height: auto;
+ 
+         position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+ bottom: 14.06%;
+  top: 14.06%;
+  height: 71.88%;
+ 
+     overflow: visible;
+ }
+
+.frame2 {
+ width: 52.1px;
+  height: 52.1px;
+ 
+         position: absolute;
+  left: 494.98px;
+ top: 2285.69px;
+ 
+     overflow: hidden;
+ }
+
+.group2 {
+ height: auto;
+ 
+         position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+ bottom: 17.99%;
+  top: 17.99%;
+  height: 64.02%;
+ 
+     overflow: visible;
+ }
+
+.frame3 {
+ width: 52.1px;
+  height: 52.1px;
+ 
+         position: absolute;
+  left: 554.53px;
+ top: 2285.69px;
+ 
+     overflow: hidden;
+ }
+
+.group3 {
+ height: auto;
+ 
+         position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+ bottom: 12.99%;
+  top: 12.99%;
+  height: 74.03%;
+ 
+     overflow: visible;
+ }
+
+.frame4 {
+ width: 52.1px;
+  height: 52.1px;
+ 
+         position: absolute;
+  left: 614.08px;
+ top: 2285.69px;
+ 
+     overflow: hidden;
+ }
+
+.group4 {
+ height: auto;
+ 
+         position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+ bottom: 15.52%;
+  top: 15.52%;
+  height: 68.96%;
+ 
+     overflow: visible;
+ }
+
+.frame-12 {
+ width: 52.1px;
+  height: 52.1px;
+ 
+         position: absolute;
+  left: 673.62px;
+ top: 2285.69px;
+ 
+     overflow: hidden;
+ }
+
+.group-4 {
+ 
+         position: absolute;
+  inset: 0;
+ 
+     }
+
+.meta {
+ color: #030303;
+ text-align: left;
+ font: 400 12px 'DmSerifDisplay-Regular', sans-serif;
+ 
+         position: absolute;
+  left: 24px;
+ top: 20px;
+ 
+     }
+
+.frame5 {
+ width: 16px;
+  height: 16px;
+ 
+         position: absolute;
+  left: 6px;
+ top: 20px;
+ 
+     overflow: hidden;
+ }
+
+.group5 {
+ height: auto;
+ 
+         position: absolute;
+  right: 2.05%;
+  left: 0%;
+  width: 97.95%;
+ bottom: 16.13%;
+  top: 18.75%;
+  height: 65.12%;
+ 
+     overflow: visible;
+ }
+
+.frame6 {
+ width: 52.1px;
+  height: 52.1px;
+ 
+         position: absolute;
+  left: 733.17px;
+ top: 2285.69px;
+ 
+     overflow: hidden;
+ }
+
+.group6 {
+ height: auto;
+ 
+         position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+ bottom: 30.38%;
+  top: 30.38%;
+  height: 39.24%;
+ 
+     overflow: visible;
+ }
+
+.frame7 {
+ width: 52.1px;
+  height: 52.1px;
+ 
+         position: absolute;
+  left: 792.72px;
+ top: 2285.69px;
+ 
+     overflow: hidden;
+ }
+
+.group7 {
+ height: auto;
+ 
+         position: absolute;
+  right: 6.25%;
+  left: 6.25%;
+  width: 87.5%;
+ bottom: 20.31%;
+  top: 18.75%;
+  height: 60.94%;
+ 
+     overflow: visible;
+ }
+
+.frame8 {
+ width: 52.1px;
+  height: 52.1px;
+ 
+         position: absolute;
+  left: 852.26px;
+ top: 2285.69px;
+ 
+     overflow: hidden;
+ }
+
+.group8 {
+ height: auto;
+ 
+         position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+ bottom: 33.85%;
+  top: 33.85%;
+  height: 32.3%;
+ 
+     overflow: visible;
+ }
+
